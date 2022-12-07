@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "621c88dc294d3e0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8960dd7e9cf6c52e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f47678d34cc6ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/👏从11月20日起重新燃烧的热情！.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57d7e3d0bb2cd031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/三孝组会/第二次组会（11.27）.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbca3b723b3d9a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Studios/留言墙开发文档✏️.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97cb66f8d9419c87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ideas/💡数学建模.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e57d4647a458d03",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ec7aa38b3d32ded",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da5cc372c5593688",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43df31519f7af847",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a45f971a97735599",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc23914df62d7234",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae21f5b0650c4738",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca5faaeec8472e69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Studios/留言墙开发文档✏️.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9d967ab2be73aa3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Studios/留言墙开发文档✏️.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afbbb445f9e08af2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Studios/留言墙开发文档✏️.md"
+              }
+            }
+          },
+          {
+            "id": "d81477fd39b88142",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310.5
+  },
+  "active": "fbca3b723b3d9a3d",
+  "lastOpenFiles": [
+    "Ideas/💡数学建模.md",
+    "Ideas/👏从11月20日起重新燃烧的热情！.md",
+    "Ideas/Git工作流.md",
+    "Ideas/三孝组会/第二次组会（11.27）.md",
+    "Studios/留言墙开发文档✏️.md",
+    "Tools🧰/💡VSCode + Clangd + SSH for C++.md",
+    "Hexo/关于-hexo-无法正常显示图片的问题.md",
+    "前端开发/Javascript-入门.md",
+    "前端开发/HTML-CSS-Beginner-to-Pro.md",
+    "前端开发/通过开发留言墙项目所得.md"
+  ]
+}
